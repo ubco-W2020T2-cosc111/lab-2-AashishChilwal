@@ -1,0 +1,54 @@
+.
+├── cellar
+│   ├── armoury
+│   │   ├── chamber
+│   │   │   ├── portal -> ../../../chapel/courtyard/aviary/hall
+│   │   │   ├── scroll
+│   │   │   ├── spell
+│   │   │   ├── statue
+│   │   │   └── treasure
+│   │   ├── potion
+│   │   ├── scroll
+│   │   └── treasure
+│   ├── scroll
+│   └── treasure
+├── chapel
+│   ├── altar
+│   ├── courtyard
+│   │   ├── aviary
+│   │   │   ├── crystal
+│   │   │   ├── hall
+│   │   │   │   ├── carcass
+│   │   │   │   ├── library
+│   │   │   │   │   ├── scroll
+│   │   │   │   │   └── tome
+│   │   │   │   └── treasure
+│   │   │   ├── penguin
+│   │   │   └── scroll
+│   │   ├── fountain
+│   │   ├── rags
+│   │   └── scroll
+│   └── scroll
+├── mydungeonmap
+├── portal -> ../../../../.rift
+├── scrap
+├── scroll
+└── vault
+    ├── glass
+    ├── scroll
+    └── stronghold
+        ├── goblet
+        ├── nursery
+        │   ├── lab
+        │   │   ├── ghost
+        │   │   ├── platinum
+        │   │   ├── scroll
+        │   │   └── treasure
+        │   ├── scroll
+        │   └── spell
+        ├── orb1
+        ├── orb2
+        ├── orb3
+        └── scroll
+
+13 directories, 38 files
